@@ -1,0 +1,4 @@
+name,description,price,has_hole,stock
+Chocolate,Chocolate glazed donut,200,true,10
+Strawberry,Strawberry frosted donut,220,true,8
+Boston Cream,Custard filled donut,250,false,5
